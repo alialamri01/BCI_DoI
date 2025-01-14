@@ -1,0 +1,365 @@
+Amplitude vs Frequency Stimulation
+
+This simulation sweep seeks to understand, in-scilico*, how varying amplitude and frequency affects the activation of a cortical column (at different layers). 
+
+This cortical column is modeled as a 400uM-by-400uM-by-2000uM column, layer depths are specified in the citation*
+
+We stimulate each layer at this height: 
+
+Layer1 - 125
+
+Layer2/3 - 562 
+
+Layer4 - 1000
+
+Layer5 - 1437
+
+Layer6 - 1875
+
+We chose these depths because they are evenly spaced, enabling us to run the midpoints to double the resolution, while at the same time each of these depths falls within each of the specified layers. 
+
+*Kumaravelu K, Sombeck J, Miller LE, Bensmaia SJ, Grill WM. (2022). Stoney vs. Histed: Quantifying the spatial effects of intracortical microstimulation Brain stimulation. 15
+
+LAYER-1
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+10uA & 50Hz
+Submitted batch job 27230489
+
+10uA & 100Hz
+Submitted batch job 27230543
+
+10uA & 150Hz 
+Submitted batch job 27230551
+
+10uA & 200Hz 
+Submitted batch job 27230577
+
+10uA & 250Hz 
+Submitted batch job 27230586
+
+------------------------------------
+
+20uA & 50Hz
+Submitted batch job 27230609
+
+20uA & 100Hz
+Submitted batch job 27230616
+
+20uA & 150Hz
+Submitted batch job 27230619
+
+20uA & 200Hz 
+Submitted batch job 27230907
+
+20uA & 250Hz 
+Submitted batch job 27235565
+------------------------------------
+
+40uA & 50Hz
+Submitted batch job 27235567
+
+40uA & 100Hz
+Submitted batch job 27235568
+
+40uA & 150Hz
+Submitted batch job 27235569
+
+40uA & 200Hz 
+Submitted batch job 27236465
+
+40uA & 250Hz
+Submitted batch job 27236466
+
+------------------------------------
+
+60uA & 50Hz
+Submitted batch job 27236834
+
+60uA & 100Hz
+Submitted batch job 27237610
+
+60uA & 150Hz
+Submitted batch job 27237611
+
+60uA & 200Hz 
+Submitted batch job 27238140
+
+60uA & 250Hz
+Submitted batch job 27238141
+
+------------------------------------
+
+80uA & 50Hz
+Submitted batch job 27238522
+
+80uA & 100Hz
+Submitted batch job 27239286
+
+80uA & 150Hz
+Submitted batch job 27252962
+
+80uA & 200Hz 
+Submitted batch job 27252966
+
+80uA & 250Hz
+Submitted batch job 27252969
+
+ 
+LAYER-2/3
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+10uA & 50Hz
+Submitted batch job 27308964
+
+10uA & 100Hz
+Submitted batch job 27309078
+
+10uA & 150Hz 
+Submitted batch job 27309207
+
+10uA & 200Hz 
+Submitted batch job 27309277
+
+10uA & 250Hz 
+Submitted batch job 27309402
+
+------------------------------------
+
+20uA & 50Hz
+Submitted batch job 27309465
+
+20uA & 100Hz
+Submitted batch job 27309637
+
+20uA & 150Hz
+Submitted batch job 27309737
+
+20uA & 200Hz 
+Submitted batch job 27317021
+
+20uA & 250Hz 
+Submitted batch job 27380131
+
+------------------------------------
+
+40uA & 50Hz
+Submitted batch job 27380178
+
+40uA & 100Hz
+Submitted batch job 27380234
+
+40uA & 150Hz
+Submitted batch job 27380261
+
+40uA & 200Hz 
+Submitted batch job 27383353
+
+40uA & 250Hz
+Submitted batch job 27383394
+
+------------------------------------
+
+60uA & 50Hz
+Submitted batch job 27383410
+
+60uA & 100Hz
+Submitted batch job 27383420
+
+60uA & 150Hz
+Submitted batch job 27405785
+
+60uA & 200Hz 
+Submitted batch job 27405789
+
+60uA & 250Hz
+Submitted batch job 27405790
+
+------------------------------------
+
+80uA & 50Hz
+Submitted batch job 27405792
+
+80uA & 100Hz
+Submitted batch job 27405810
+
+80uA & 150Hz
+Submitted batch job 27405815
+
+80uA & 200Hz 
+Submitted batch job 27405818
+
+80uA & 250Hz
+Submitted batch job 27405820
+
+
+
+
+
+LAYER-5
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+10uA & 50Hz
+Submitted batch job 27709090
+
+10uA & 100Hz
+Submitted batch job 27709095
+
+10uA & 150Hz 
+Submitted batch job 27709110
+
+10uA & 200Hz 
+Submitted batch job 27709113
+
+10uA & 250Hz 
+Submitted batch job 27709116
+
+------------------------------------
+
+20uA & 50Hz
+Submitted batch job 27709118
+
+20uA & 100Hz
+Submitted batch job 27709119
+
+20uA & 150Hz
+Submitted batch job 27709122
+
+20uA & 200Hz 
+Submitted batch job 27728916
+
+20uA & 250Hz 
+Submitted batch job 27728926
+------------------------------------
+
+40uA & 50Hz
+Submitted batch job 27738512
+
+40uA & 100Hz
+Submitted batch job 27738521
+
+40uA & 150Hz
+Submitted batch job 27738545
+
+40uA & 200Hz 
+Submitted batch job 27738551
+
+40uA & 250Hz
+Submitted batch job 27738591
+
+------------------------------------
+
+60uA & 50Hz
+Submitted batch job 27742214
+
+60uA & 100Hz
+Submitted batch job 27746169
+
+60uA & 150Hz
+Submitted batch job 27748645
+
+60uA & 200Hz 
+
+60uA & 250Hz
+
+------------------------------------
+
+80uA & 50Hz
+
+80uA & 100Hz
+
+80uA & 150Hz
+
+80uA & 200Hz 
+
+80uA & 250Hz
+
+
+
+
+
+LAYER-6
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+10uA & 50Hz
+Submitted batch job 27203820
+
+10uA & 100Hz
+Submitted batch job 27203824
+
+10uA & 150Hz 
+Submitted batch job 27203829
+
+10uA & 200Hz 
+Submitted batch job 27203831
+
+10uA & 250Hz 
+Submitted batch job 27203833
+
+------------------------------------
+
+20uA & 50Hz
+Submitted batch job 27204644
+
+20uA & 100Hz
+Submitted batch job 27204649
+
+20uA & 150Hz
+Submitted batch job 27204650
+
+20uA & 200Hz 
+Submitted batch job 27204652
+
+20uA & 250Hz 
+Submitted batch job 27205818
+
+------------------------------------
+
+40uA & 50Hz
+Submitted batch job 27211747
+
+40uA & 100Hz
+Submitted batch job 27211787
+
+40uA & 150Hz
+Submitted batch job 27211789
+
+40uA & 200Hz 
+Submitted batch job 27211794
+
+40uA & 250Hz
+Submitted batch job 27211796
+
+------------------------------------
+
+60uA & 50Hz
+Submitted batch job 27211802
+
+60uA & 100Hz
+Submitted batch job 27211803
+
+60uA & 150Hz
+Submitted batch job 27211806
+
+60uA & 200Hz 
+Submitted batch job 27211995
+
+60uA & 250Hz
+Submitted batch job 27211996
+
+------------------------------------
+
+80uA & 50Hz
+Submitted batch job 27211998
+
+80uA & 100Hz
+Submitted batch job 27212136
+
+80uA & 150Hz
+Submitted batch job 27212451
+
+80uA & 200Hz 
+Submitted batch job 27212454
+
+80uA & 250Hz
+Submitted batch job 27212455
